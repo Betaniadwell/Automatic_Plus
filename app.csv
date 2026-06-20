@@ -1,18 +1,18 @@
-id_tienda,id_producto,producto,precio,fecha,ventas,stock,calidad,total
-1,738711,Chocolate Asavache,549,2019-09-01,27450,1098,Regular,27450
-1,738711,Chocolate Asavache,549,2019-09-01,27450,1098,Regular,54900
-1,738711,Chocolate Asavache,549,2019-09-01,27450,1098,Regular,82350
-3,684759,Chocolate Blanco,2518,2020-06-01,125900,5036,Regular,125900
-5,889571,Chocolate Caramelo,883,2020-08-01,0,1766,Estandar,0
-5,889571,Chocolate Caramelo,883,2020-08-01,0,1766,Estandar,0
-5,889571,Chocolate Caramelo,883,2020-08-01,0,1766,Estandar,0
-4,640447,Chocolate Chip ,1006,2020-06-01,50300,2012,Bueno,50300
-5,703997,Chocolate Con Leche,2472,2020-09-01,123600,4944,Regular,123600
-5,703997,Chocolate Con Leche,2472,2020-09-01,123600,4944,Regular,247200
-5,703997,Chocolate Con Leche,2472,2020-09-01,123600,4944,Regular,370800
-3,266868,Chocolate Negro,292,2020-02-01,14600,584,Regular,14600
-3,140794,Chocolate Negro Amargo,974,2020-02-01,48700,1948,Bueno,48700
-5,505339,Chocolate Pinterex,788,2019-09-01,39400,1576,Regular,39400
-5,505339,Chocolate Pinterex,788,2019-09-01,39400,1576,Regular,78800
-5,505339,Chocolate Pinterex,788,2019-09-01,39400,1576,Regular,118200
-2,898637,Chocolate Semidulce,367,2020-07-01,18350,734,Estandar,18350
+Customer_ID,Order_ID,Product,Stock,Date,Ventas,Cost,Categoria,total_sum
+1,738711,Chocolate Asavache,549,2019-09-01,27450.0,1098,Regular,27450.0
+1,738711,Chocolate Asavache,549,2019-09-01,27450.0,1098,Regular,54900.0
+1,738711,Chocolate Asavache,549,2019-09-01,27450.0,1098,Regular,82350.0
+3,684759,Chocolate Blanco,2518,2020-06-01,125900.0,5036,Regular,125900.0
+5,889571,Chocolate Caramelo,883,2020-08-01,0.0,1766,Estandar,0.0
+5,889571,Chocolate Caramelo,883,2020-08-01,0.0,1766,Estandar,0.0
+5,889571,Chocolate Caramelo,883,2020-08-01,0.0,1766,Estandar,0.0
+4,640447,Chocolate Chip ,1006,2020-06-01,50300.0,2012,Bueno,50300.0
+5,703997,Chocolate Con Leche,2472,2020-09-01,123600.0,4944,Regular,123600.0
+5,703997,Chocolate Con Leche,2472,2020-09-01,123600.0,4944,Regular,247200.0
+5,703997,Chocolate Con Leche,2472,2020-09-01,123600.0,4944,Regular,370800.0
+3,266868,Chocolate Negro,292,2020-02-01,14600.0,584,Regular,14600.0
+3,140794,Chocolate Negro Amargo,974,2020-02-01,48700.0,1948,Bueno,48700.0
+5,505339,Chocolate Pinterex,788,2019-09-01,39400.0,1576,Regular,39400.0
+5,505339,Chocolate Pinterex,788,2019-09-01,39400.0,1576,Regular,78800.0
+5,505339,Chocolate Pinterex,788,2019-09-01,39400.0,1576,Regular,118200.0
+2,898637,Chocolate Semidulce,367,2020-07-01,18350.0,734,Estandar,18350.0
