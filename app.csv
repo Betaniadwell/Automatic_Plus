@@ -18,3 +18,4 @@ Customer_ID,Order_ID,Product,Stock,Date,Ventas,Cost,Categoria,total_sum
 2,898637,Chocolate Semidulce,367,2020-07-01,18350.0,734,Estandar,18350.0
 6,109200,Chocolate Havana,960,2026-06-20,12000.0,7500,Estandar,4500.0
 7,45000,Chocolate Almendrado,890,2026-06-26,56000.0,20000,Estandar,36000.0
+8,95000,Chocolate Cordobes,630,2026-06-29,9600.0,3500,Estandar,6100.0
